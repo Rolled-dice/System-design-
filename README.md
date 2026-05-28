@@ -6,6 +6,8 @@ A condensed 4-week roadmap to master **System Design (HLD + LLD)** in C++ with O
 
 For the full 12-week version with progress mapping, see [ROADMAP.md](ROADMAP.md).
 
+**Repo stats:** 28 days of content - 82 C++ files (all compile clean with `g++ -std=c++17 -Wall -pthread`) - 38 markdown docs covering theory, interview questions, and assignments.
+
 ---
 
 ## Roadmap Overview
@@ -140,6 +142,12 @@ g++ -std=c++17 -pthread filename.cpp -o output && ./output
 
 ## Interview Bank
 
-- [LLD Questions](interview-bank/lld-questions.md)
-- [HLD Questions](interview-bank/hld-questions.md)
-- [Final Checklist](interview-bank/final-checklist.md)
+- [LLD Questions](interview-bank/lld-questions.md) - 28 problems with patterns to use
+- [HLD Questions](interview-bank/hld-questions.md) - 30 problems + capacity cheat-sheet + latency numbers + component picker
+- [Extended Questions](interview-bank/extended-questions.md) - 100+ more LLD + HLD problems, company-specific patterns
+- [External Resources](interview-bank/resources.md) - curated repos, books, newsletters, YouTube, practice platforms
+- [Final Checklist](interview-bank/final-checklist.md) - tickable readiness self-assessment
+
+## How to Get the Most from This Repo
+
+See [STUDY_GUIDE.md](STUDY_GUIDE.md) for the daily/weekly loop, active-recall techniques, mock interview schedule, common pitfalls, and spaced-review timeline.
