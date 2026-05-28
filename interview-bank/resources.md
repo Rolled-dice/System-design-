@@ -20,6 +20,14 @@ The repo gives you the structured 4-week C++ track. These external resources are
 | [crakesh27/Low-level-system-design](https://github.com/crakesh27/Low-level-system-design) | LLD examples written in C++ for interview practice. |
 | [alpha74/LLD-MachineCoding_Guide](https://github.com/alpha74/LLD-MachineCoding_Guide) | LLD + machine coding solutions. |
 
+## Interactive Practice Sites
+
+| Site | Why it's useful |
+|------|-----------------|
+| [systemdesignschool.io](https://systemdesignschool.io) | Interactive editorial walkthroughs with submission feedback. Strong on API design, microservices, and step-by-step problem flow. See [systemdesignschool-mapping.md](systemdesignschool-mapping.md) for how to use it alongside this repo. |
+| [bytebytego.com](https://bytebytego.com) | Subscription-based; weekly architecture deep dives, visual explanations, member courses by Alex Xu. |
+| [hellointerview.com](https://www.hellointerview.com) | Free system design problem walkthroughs by ex-FAANG interviewers. |
+
 ## Books (Order of Priority)
 
 1. **Designing Data-Intensive Applications** - Martin Kleppmann (the gold standard for the data layer)
