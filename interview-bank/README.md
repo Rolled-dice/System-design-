@@ -6,6 +6,8 @@ Curated interview problem banks and a final readiness checklist.
 
 - [LLD Question Bank](lld-questions.md) - 28 LLD problems, framework, patterns to use
 - [HLD Question Bank](hld-questions.md) - 30 HLD problems, capacity cheat-sheet, latency numbers, component picker
+- [Extended Question Bank](extended-questions.md) - 50+ more LLD + 50+ more HLD problems sourced from public banks, plus company-specific patterns
+- [External Resources](resources.md) - top GitHub repos, books, newsletters, YouTube channels, practice platforms
 - [Final Checklist](final-checklist.md) - tickable readiness self-assessment
 
 ## How to Use

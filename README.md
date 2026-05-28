@@ -142,15 +142,12 @@ g++ -std=c++17 -pthread filename.cpp -o output && ./output
 
 ## Interview Bank
 
-- [LLD Questions](interview-bank/lld-questions.md) - 28 LLD problems with patterns to use
-- [HLD Questions](interview-bank/hld-questions.md) - 30 HLD problems + capacity cheat-sheet + latency numbers + component picker
+- [LLD Questions](interview-bank/lld-questions.md) - 28 problems with patterns to use
+- [HLD Questions](interview-bank/hld-questions.md) - 30 problems + capacity cheat-sheet + latency numbers + component picker
+- [Extended Questions](interview-bank/extended-questions.md) - 100+ more LLD + HLD problems, company-specific patterns
+- [External Resources](interview-bank/resources.md) - curated repos, books, newsletters, YouTube, practice platforms
 - [Final Checklist](interview-bank/final-checklist.md) - tickable readiness self-assessment
 
-## How to Track Progress
+## How to Get the Most from This Repo
 
-1. Fork this repo
-2. Tick `[ ]` -> `[x]` in each `weekN-notes.md` and `dayXX/README.md` as you finish
-3. Compile and run each `.cpp` file (`g++ -std=c++17 -pthread file.cpp -o out && ./out`)
-4. Solve each day's assignment in your own file
-5. After each week, fill in `weekN-notes.md` reflection
-6. After Day 28, work through `interview-bank/` and schedule mock interviews
+See [STUDY_GUIDE.md](STUDY_GUIDE.md) for the daily/weekly loop, active-recall techniques, mock interview schedule, common pitfalls, and spaced-review timeline.
