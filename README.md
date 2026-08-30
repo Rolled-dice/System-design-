@@ -148,6 +148,12 @@ g++ -std=c++17 -pthread filename.cpp -o output && ./output
 - [External Resources](interview-bank/resources.md) - curated repos, books, newsletters, YouTube, practice platforms
 - [Final Checklist](interview-bank/final-checklist.md) - tickable readiness self-assessment
 
+## DevOps / SRE Interview Prep
+
+A separate track for DevOps and SRE interviews (Azure, AWS, Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps, Python, Bash, Prometheus, Grafana, ELK, ArgoCD):
+
+- [devops-interview-prep/](devops-interview-prep/) — 11 files covering deep-dive troubleshooting scenarios, Kubernetes/Docker, Terraform, CI/CD, cloud (AWS + Azure), observability, Python/Bash automation, GitOps/DevSecOps/FinOps, architecture design scenarios, behavioral stories, and a 100-question rapid-fire round.
+
 ## How to Get the Most from This Repo
 
 See [STUDY_GUIDE.md](STUDY_GUIDE.md) for the daily/weekly loop, active-recall techniques, mock interview schedule, common pitfalls, and spaced-review timeline.
